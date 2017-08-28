@@ -1,0 +1,13 @@
+!SESSION 2017-08-19 00:49:32.798 -----------------------------------------------
+eclipse.buildId=4.7.0.I20170612-0950
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -data /home/robond/workspace/Ex_Files_C_EssT/Exercise Files -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product -clean
+
+!ENTRY org.eclipse.ui 1 1 2017-08-19 00:50:12.558
+!MESSAGE Workbench migration started
+
+!ENTRY org.eclipse.ui 1 1 2017-08-19 00:50:15.066
+!MESSAGE Workbench migration finished
